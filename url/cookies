@@ -1,0 +1,20 @@
+;; Emacs-W3 HTTP cookies file
+;; Automatically generated file!!! DO NOT EDIT!!!
+
+(setq url-cookie-storage
+ '((".google.ee"
+  [url-cookie "PREF" "ID=d2f8a2abe52d6264:U=fd5da15dd3042503:FF=0:TM=1417966065:LM=1417966082:S=ncMUpiJNP0tF5UaH" "06-Dec-2016 15:28:02.00 GMT" "/" ".google.ee" nil]
+  [url-cookie "NID" "67=ChcvP_ooQeOyFNHGEQxT-l17sDTeQaYNTTOFA2sD7bFoy_t8RK8cde7B75B5pls7F3uV_b7A6dmjcUmJSn7RzqaEstt8nbb8mO7zPX0OCksOfwS63UhNJ9LlT_V4lH1_" "08-Jun-2015 15:27:45.00 GMT" "/" ".google.ee" nil]
+  [url-cookie "HttpOnly" nil "08-Jun-2015 15:27:45.00 GMT" "/" ".google.ee" nil])
+ (".google.com"
+  [url-cookie "PREF" "ID=bbd2004ec8915e61:FF=0:TM=1417966065:LM=1417966065:S=8bczbbaZJDS0MLvi" "06-Dec-2016 15:27:45.00 GMT" "/" ".google.com" nil]
+  [url-cookie "NID" "67=rVceJfnnD6A34G8e9ECvQidJbTB35640IJRWeWe9z7243uGNmRMHDUtJblu1qjQIVhIl0o8HXrNPnGqrsGH-Yl1QHz3wYBv6FJ1zj7xU1NpxGNY998QrTUyiupVdkqW3" "08-Jun-2015 15:27:45.00 GMT" "/" ".google.com" nil]
+  [url-cookie "HttpOnly" nil "08-Jun-2015 15:27:45.00 GMT" "/" ".google.com" nil]))
+)
+(setq url-cookie-secure-storage
+ 'nil)
+
+;; Local Variables:
+;; version-control: never
+;; no-byte-compile: t
+;; End:

@@ -1,0 +1,188 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/kristo/Projects/clojure-getting-started/src/" . "clojure_getting_started/")
+ ("/home/kristo/Projects/clojure-getting-started/" . "src/")
+ ("/home/kristo/Projects/modbus-scripting-engine/modbus-ps-scripting-engine/test/" . "modbus_ps_scripting_engine/")
+ ("/home/kristo/Projects/old/modbus-scripting-engine/src/" . "modbus_protocol/")
+ ("/home/kristo/Projects/old/modbus-scripting-engine/" . "src/")
+ ("/home/kristo/Projects/old/" . "modbus-scripting-engine/")
+ ("/home/kristo/Projects/modbus-scripting-engine/modbus-ps-scripting-engine/src/" . "modbus_ps_scripting_engine/")
+ ("/home/kristo/Projects/modbus-scripting-engine/modbus-ps-scripting-engine/" . "src/")
+ ("/home/kristo/Projects/bondora-site-map/src/" . "bondora_site_map/")
+ ("/home/kristo/Projects/bondora-site-map/" . "src/")
+ ("/home/kristo/Downloads/" . "modbus-scripting-engine/")
+ ("/home/kristo/Documents/" . "Projects/")
+ ("/home/kristo/Projects/modbus-scripting-engine/src/" . "modbus_protocol/")
+ ("/home/kristo/Projects/modbus-scripting-engine/" . "modbus-ps-scripting-engine/")
+ ("/home/kristo/Projects/hn-dt-frontpage-comparison/data/" . "plots/")
+ ("/home/kristo/Projects/hn-dt-frontpage-comparison/" . "data/")
+ ("/home/" . "kristo/")
+ ("/home/kristo/.emacs.d/" . "themes/")
+ ("/home/kristo/Projects/HackerNews_DataTau_Comparison/" . "data/")
+ ("/home/kristo/Projects/hn_dt_statistics/data/" . "raw_html/")
+ ("/home/kristo/Projects/hn_dt_statistics/" . "data/")
+ ("/home/kristo/Projects/hn-dt-statistics/" . "data/")
+ ("/home/kristo/Projects/" . "shouter/")
+ ("/home/kristo/Development-Tools/" . "idea-IC-139.659.2/")
+ ("/home/kristo/" . "Projects/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/kristo/Projects/"
+ "/home/kristo/Projects/shouter/"
+ "/home/kristo/Projects/clojure-getting-started/src/clojure_getting_started/"
+ "/home/kristo/Projects/clojure-getting-started/"
+ "/home/kristo/.emacs.d/"
+ "/home/kristo/.emacs.d/themes/"
+ "/home/kristo/Projects/PythonCodingStyle/"
+ "/home/kristo/"
+ "/home/kristo/Projects/modbus-scripting-engine/modbus-ps-scripting-engine/src/modbus_ps_scripting_engine/"
+ "/home/kristo/Downloads/"
+ "/home/kristo/Projects/bondora-site-map/src/bondora_site_map/"
+ "/home/kristo/Projects/bondora-site-map/"
+ "/home/kristo/Projects/modbus-scripting-engine/modbus-ps-scripting-engine/test/modbus_ps_scripting_engine/"
+ "/home/kristo/.lein/"
+ "/home/kristo/Projects/old/modbus-scripting-engine/src/modbus_protocol/"
+ "/home/kristo/Projects/modbus-scripting-engine/src/modbus_protocol/"
+ "/home/kristo/Projects/modbus-scripting-engine/src/modbus_scripting_engine/"
+ "/home/kristo/Projects/hn-dt-frontpage-comparison/data/"
+ "/home/kristo/Projects/hn-dt-frontpage-comparison/"
+ "/home/kristo/Projects/hn-dt-frontpage-comparison/data/raw_html/"
+ "/home/kristo/Projects/hn-dt-frontpage-comparison/collection/"
+ "/home/kristo/Projects/HackerNews_DataTau_Comparison/"
+ "/home/kristo/Projects/HackerNews_DataTau_Comparison/data/"
+ "/home/kristo/.emacs.d/customizations/"
+ "/home/kristo/Documents/"
+ "/home/kristo/Projects/hn_dt_statistics/"
+ "/home/kristo/Projects/hn_dt_statistics/data/"
+ "/home/kristo/Projects/hn_dt_statistics/data/raw_html/"
+ "/home/kristo/.xmonad/"
+ "/home/kristo/Projects/hn-dt-statistics/"
+ "/home/kristo/Projects/hn-dt-statistics/data/"
+ "/home/kristo/Development-Tools/idea-IC-139.659.2/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "hacker_rank.clj"
+ "project.clj"
+ "web.clj"
+ "init.el"
+ "color-theme-tomorrow.el"
+ "main.py"
+ "performance-test.py"
+ "util.clj"
+ "ModBusProtocol.zip"
+ "ps_control.clj"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/kristo/Projects/shouter/" (21764 10395 920873 399000) ".hgignore" "test/" "project.clj" ".gitignore" "target/" "README.md" "./" "../" "LICENSE" "resources/" "src/" "doc/")
+
+ ("/home/kristo/Projects/" (21764 6592 818165 454000) "clojure-getting-started/" "bondora-site-map/" "hn_dt_statistics/" "test.clj" "PythonCodingStyle/" "test.py" "shouter/" "test.hy" "./" "HackerNews_DataTau_Comparison/" "modbus-scripting-engine/" "../" "hn-dt-frontpage-comparison/" "old/" "hacker_rank.clj")
+
+ ("/home/kristo/Projects/clojure-getting-started/src/clojure_getting_started/" (21763 15084 337625 725000) "web.clj" "./" "../")
+
+ ("/home/kristo/Projects/clojure-getting-started/src/" (21763 15084 337625 725000) "./" "../" "clojure_getting_started/")
+
+ ("/home/kristo/Projects/clojure-getting-started/" (21763 23360 228220 377000) ".git/" "test/" ".lein-env" ".lein-repl-history" "project.clj" "Procfile" ".gitignore" "target/" "README.md" "./" "../" "resources/" "src/")
+
+ ("/home/kristo/" (21764 5910 857309 426000) ".PyCharm40/" ".ghc/" ".IdeaIC14/" ".gnupg/" ".java/" ".ICEauthority" ".dbus/" ".qtile.log" ".psql_history" "Music/" ".ipython/" ".gnome2_private/" "Templates/" ".android/" ".Xauthority" ".esd_auth" ".dmrc" ".gnome2/" "performance-test.py" "Downloads/" "Pictures/" ".bash_history" "monitor_script" ".fehbg" "Development-Tools/" ".gnome/" ".python_history" ".xscreensaver" ".cache/" ".gksu.lock" ".pki/" ".config/" ".xmonad.orig/" ".bash_logout" "./" ".mozilla/" ".bashrc" ".m2/" "IdeaProjects/" ".hy-history" ".gitconfig" ".kde4/" "Public/" "ssh_activation" "../" ".lesshst" ".xsession-errors" ".lein/" ".xsession-errors.old" ".netrc" ".emacs.d/" ".bash_profile" ".cabal/" "Desktop/" ".xmonad/" ".conkeror.mozdev.org/" ".local/" "Projects/" "monitor_script.sh" ".xinitrc" ".heroku/" "PycharmProjects/" "Documents/" "Videos/")
+
+ ("/home/kristo/.emacs.d/" (21754 11603 63867 225000) "session.106ab071f7af4dffda142295220197924600000003930028" "places" "elpa/" "auto-save-list/" "haskell-fun/" "ido.last" "projectile-bookmarks.eld" "cider-history" ".gitignore" ".smex-items" "customizations/" "./" "init.el" ".recentf" "../" "session.10b11c811c8ce0300d142235474269672100000004710026" "themes/" "backups/" "tmp/" "ac-comphist.dat" "games/" "url/")
+
+ ("/home/kristo/Projects/PythonCodingStyle/" (21751 11604 851227 220000) "./" "../" "main.py")
+
+ ("/home/kristo/Projects/modbus-scripting-engine/modbus-ps-scripting-engine/" (21749 39016 398620 812000) ".git/" "test/" ".idea/" "modbus_ps_scripting_engine.iml" "project.clj" ".gitignore" "target/" "README.md" "./" ".lein-failures" "../" "LICENSE" "resources/" "src/" ".gitattributes" "doc/")
+
+ ("/home/kristo/Downloads/" (21748 49118 948762 648000) "Windows_8.1_Pro_X64_Activated.iso" "11029807_790359364370622_1256015358_o.jpg" "ModBusProtocol.zip" "2014-12-24-wheezy-raspbian.zip" "K55AAS407.zip" "11028097_790359367703955_49905973_o.jpg" "Eksmatrikuleerimiseavaldus (copy).docx" "11040797_790346064371952_927105067_n.jpg" "2015-02-03-pi-snappy.zip.torrent" "2015-02-03-pi-snappy.zip" "documents-export-2015-02-22.zip" "Eksmatrikuleerimiseavaldus.docx" "Akira (1988) 1080p [Eng 5.1 & Jpn 5.1 + Subs] Blu-ray/" "PowerSupplyImplementation.zip" "chrome-remote-desktop_current_amd64.deb" "./" "1379766492kitty love.jpg" "noip-duc-linux.tar.gz" "pi-snappy.img" "modbus-scripting-engine/" "../" "11040797_790346064371952_927105067_n (1).jpg" "K55AAS.407" ".emacs/" "2014-12-24-wheezy-raspbian.img")
+
+ ("/home/kristo/Projects/bondora-site-map/" (21748 48939 430055 327000) ".hgignore" "test/" "project.clj" ".gitignore" "target/" "README.md" "./" "../" "LICENSE" "resources/" "src/" "doc/")
+
+ ("/home/kristo/Projects/bondora-site-map/src/bondora_site_map/" (21748 46698 129670 643000) "core.clj" "./" "../")
+
+ ("/home/kristo/Projects/modbus-scripting-engine/modbus-ps-scripting-engine/src/modbus_ps_scripting_engine/" (21747 1482 450400 503000) "core.clj" "util.clj" "./" "../" "ps_control.clj")
+
+ ("/home/kristo/.emacs.d/elpa/clj-refactor-20150225.205/" (21747 2044 141645 651000) "clj-refactor.el" "clj-refactor-pkg.elc" "clj-refactor.elc" "clj-refactor-autoloads.el" "clj-refactor-pkg.el" "./" "../")
+
+ ("/home/kristo/.lein/" (21747 1055 566528 683000) "profiles.clj" "./" "../" "self-installs/" "repl-port")
+
+ ("/home/kristo/.config/" (21745 43562 623439 653000) "khotkeysrc" "kglobalshortcutsrc" "fontconfig/" "plasma-org.kde.plasma.desktop-appletsrc" "nautilus/" "plasma-localerc" "brasero/" "pulse/" "kwinrulesrc" "kcmshell5rc" "systemsettingsrc" "baloofilerc" "chromium/" "user-dirs.locale" "totem/" "ibus/" "gnome-session/" "gtkrc-2.0" "monitors.xml" "htop/" "QtProject.conf" "autostart/" "kwinrc" "kconf_updaterc" "user-dirs.dirs" "transmission/" "startupconfig" "goa-1.0/" "plasmawindowedrc" "dconf/" "./" "gconf/" "powermanagementprofilesrc" "gedit/" "../" "menus/" "evolution/" "krunnerrc" "Trolltech.conf" "gtkrc" "kdeglobals" "kactivitymanagerdrc" "startupconfigkeys" "gtk-2.0/" "drkonqirc" "kdebugrc" "ktimezonedrc" "matplotlib/" "kickoffrc" "ksmserverrc" "plasmawindowed-appletsrc" "eog/" "monitors.xml~" "google-chrome/" "startupconfigfiles" "gtk-3.0/")
+
+ ("/home/kristo/Projects/modbus-scripting-engine/modbus-ps-scripting-engine/test/modbus_ps_scripting_engine/" (21746 64917 53240 577000) "core_test.clj" "util_test.clj" "./" "ps_control_test.clj" "../")
+
+ ("/home/kristo/Projects/modbus-scripting-engine/modbus-ps-scripting-engine/test/" (21746 61221 873366 86000) "modbus_ps_scripting_engine/" "./" "../")
+
+ ("/home/kristo/Projects/old/modbus-scripting-engine/src/modbus_protocol/" (21741 45999 347733 123000) "modbus.clj" "messages.clj" "util.clj" "./" "../")
+
+ ("/home/kristo/Projects/old/modbus-scripting-engine/src/" (21737 56049 249547 0) "modbus_scripting_engine/" "modbus_protocol/" "./" "../")
+
+ ("/home/kristo/Projects/old/modbus-scripting-engine/" (21744 37454 44359 999000) "_hgignore" "test/" ".idea/" "project.clj" "target/" "_gitignore" "README.md" "./" "../" "LICENSE" "_nrepl-port" "src/" "doc/" "modbus-scripting-engine.iml")
+
+ ("/home/kristo/Projects/old/" (21746 61141 574274 170000) "./" "modbus-scripting-engine/" "../")
+
+ ("/home/kristo/Projects/modbus-scripting-engine/modbus-ps-scripting-engine/src/" (21746 61221 873366 86000) "modbus_ps_scripting_engine/" "./" "../")
+
+ ("/home/kristo/Projects/modbus-scripting-engine/" (21746 61220 659996 256000) "./" "modbus-ps-scripting-engine/" "../")
+
+ ("/home/kristo/Projects/modbus-scripting-engine/src/modbus_protocol/" (21741 45999 347733 123000) "modbus.clj" "messages.clj" "util.clj" "./" "../")
+
+ ("/home/kristo/Projects/bondora-site-map/src/" (21740 21407 563170 254000) "bondora_site_map/" "./" "../")
+
+ ("/home/kristo/Downloads/modbus-scripting-engine/" (21737 56049 249547 111000) "_hgignore" "test/" ".idea/" "project.clj" "target/" "_gitignore" "README.md" "./" "../" "LICENSE" "_nrepl-port" "src/" "doc/" "modbus-scripting-engine.iml")
+
+ ("/home/kristo/Documents/Projects/" (21645 26749 932410 0) "tic_tac_toe/" "HelloJavaClojure-master/" "chat-server/" "test_bed.clj" "client-app-example/" "clojure-koans/" "reagent-tutorial/" "simple/" "ClojureTest/" "clojurescript_koans.clj" "searcher/" "bin-clock/" "solution/" "binary-clock.clj" "./" "binary-clock-demo/" "html5-statistics (copy)/" "geometry/" "../" "clj-from-java-test/" "paper-calculator-master/" "clojurescript_koans" "test_html/" "cljlib/" "html5-statistics/" "guestbook-master/" "hackathon-binary-clock/" "todomvc/")
+
+ ("/home/kristo/Documents/" (21715 52535 276086 267000) "notes_linux_terminal" "Pictures/" "./" "../" "elpy.pdf" "Projects/" "PycharmProjects/")
+
+ ("/home/kristo/Projects/modbus-scripting-engine/src/modbus_scripting_engine/" (21737 56049 249547 0) "core.clj" "./" "../")
+
+ ("/home/kristo/Projects/modbus-scripting-engine/src/" (21737 56049 249547 0) "modbus_scripting_engine/" "modbus_protocol/" "./" "../")
+
+ ("/home/kristo/Projects/hn-dt-frontpage-comparison/" (21712 34857 436854 277000) ".git/" "data/" ".idea/" "indexation.py" "log" "__pycache__/" "aggregation.py" "run_all.py" "./" "../" "collection.py" "analysis.py" "visualization.py" "util.py" "run_all.hy")
+
+ ("/home/kristo/Projects/hn-dt-frontpage-comparison/data/plots/" (21711 61997 220631 272000) "./" "../")
+
+ ("/home/kristo/Projects/hn-dt-frontpage-comparison/data/" (21711 62442 680077 870000) "aggregation_results.json" "raw_html/" "index.json" "aggregation_result_test.json" "analysis_results.json" "index_backup.json" "./" "../" "plots/")
+
+ ("/home/kristo/Projects/hn-dt-frontpage-comparison/data/raw_html/" (21711 62270 301797 475000) "./" "../")
+
+ ("/home/kristo/.emacs.d/elpa/" (21709 12114 811207 285000) "ac-cider-compliment-0.1.0/" "idomenu-20141123.1320/" "rainbow-delimiters-20140713.1131/" "professional-theme-20140916.717/" "smex-20140425.1314/" "json-snatcher-20140527.2147/" "pkg-info-20140610.630/" "epl-20140620.218/" "boron-theme-20150117.952/" "auto-complete-20141111.2346/" "darcula-theme-readme.txt" "json-mode-20141105.138/" "sphinx-doc-20140524.857/" "cider-readme.txt" "exec-path-from-shell-1.6/" "flatland-black-theme-20141115.2230/" "git-commit-mode-20140605.520/" "dash-20140717.547/" "cider-20141120.1746/" "highlight-indentation-20150113.2304/" "flatui-theme-20141008.315/" "dark-krystal-theme-20141115.2301/" "hy-mode-20150102.1857/" "firecode-theme-20141115.2302/" "noctilux-theme-20140406.2/" "yasnippet-20141223.303/" "git-rebase-mode-20140605.520/" "archives/" "ac-cider-20141123.343/" "queue-0.1.1/" "./" "ido-ubiquitous-20140526.1306/" "magit-20140720.358/" "s-20140714.707/" "paredit-20140128.1248/" "scss-mode-20130105.1411/" "company-20150115.1751/" "../" "powerline-20141125.726/" "darcula-theme-20150115.2340/" "gnupg/" "json-reformat-20141108.1618/" "elpy-20141031.945/" "find-file-in-project-20141214.1952/" "clojure-mode-extra-font-locking-20140613.839/" "pyvenv-20150110.421/" "clojure-mode-20141120.1410/" "gotham-theme-20141108.1539/" "haskell-emacs-20150117.1022/" "projectile-20140716.416/" "bliss-theme-20141115.2301/" "tagedit-20140618.521/" "ipython-2927/" "darcula-theme-20141114.312/" "popup-20141120.1742/")
+
+ ("/home/kristo/.emacs.d/elpa/sphinx-doc-20140524.857/" (21709 12158 435815 915000) "sphinx-doc-autoloads.el" "sphinx-doc-pkg.el" "./" "sphinx-doc-pkg.elc" "sphinx-doc.el" "../" "sphinx-doc.elc")
+
+ ("/home/kristo/Projects/hn-dt-frontpage-comparison/collection/" (21709 10677 205855 385000) "indexation.py" "./" "../" "collection.py")
+
+ ("/home/kristo/Projects/HackerNews_DataTau_Comparison/" (21709 9170 878381 759000) "./" "../")
+
+ ("/home/kristo/.emacs.d/customizations/" (21690 7645 398784 0) "elisp-editing.el" "setup-clojure.el" "setup-js.el" "shell-integration.el" "themes.el" "misc.el" "ui.el" "./" "editing.el" "../" "navigation.el")
+
+ ("/home/" (21689 29016 611689 463000) "./" "../" "kristo/")
+
+ ("/home/kristo/.emacs.d/themes/" (21690 7645 458786 0) "tomorrow-theme.el" "tomorrow-night-eighties-theme.el" "tomorrow-night-theme.el" "./" "tomorrow-night-blue-theme.el" "../" "tomorrow-night-bright-theme.el" "zenburn-theme.el" "color-theme-tomorrow.el")
+
+ ("/home/kristo/Projects/HackerNews_DataTau_Comparison/data/" (21702 11120 101589 40000) "content_example_hn" "content_example_dt" "raw_html/" "index.json" "index_backup.json" "./" "results.json" "../")
+
+ ("/home/kristo/Projects/hn_dt_statistics/" (21701 14983 56290 602000) "data/" "index.py" "__pycache__/" "analyze_data.py" "test_semi_aggreate" "collect_data.py" "./" "results.json" "../" "raw_data_aggregation.py" "main.py" "util.py")
+
+ ("/home/kristo/Projects/hn_dt_statistics/data/" (21700 5139 486141 316000) "content_example_hn" "raw_html/" "index.json" "content_example" "index_backup.json" "./" "../")
+
+ ("/home/kristo/Projects/hn_dt_statistics/data/raw_html/" (21700 2934 101374 228000) "791f2de9-0251-4a27-b7c2-1b89205608c9.html" "61adee45-94b2-4d8c-8486-a6cc27de1992.html" "053422dc-7388-4563-866e-a0bbc312da3c.html" "a0e51b9f-83f7-4e4a-aef4-7f36b3783a81.html" "72008bbc-f46f-43f6-8c1e-c9317ebadd1b.html" "f38715dc-853a-4050-9da6-461528f6f027.html" "2c8b7168-63b8-4162-b26f-285e73eec824.html" "4a7838a0-85bf-47da-8b26-9d6a9d63c560.html" "fec1bb94-f43a-40a7-8188-a11ea992e3c9.html" "5f8626b4-0431-435b-b3fc-07b20370c429.html" "b02bb99b-82ca-4d1b-abb2-7a6bbd12e4cc.html" "5a6831af-1c7c-4bc0-a5b9-98dd184b5244.html" "9840ce00-f567-4ba9-a99a-df75e3f49734.html" "0b4af2b1-63c8-4052-b7b1-8e6103e057a2.html" "45993fc7-920c-4470-a4e2-e6ae169b7a42.html" "9fdf6b2d-3664-4124-a842-af1e4bb6f0c3.html" "bdc7f6c5-48ef-4ce5-9e7c-f3bab344f8b5.html" "641cb846-3cd5-4dfb-82ba-d79d4dcc8b9c.html" "554efc13-1f0c-488e-8845-df90e10f9e1a.html" "8916daf5-7e9d-4d6a-9d0e-6cd87633b886.html" "1afbad4e-8786-45a5-8e4c-85e0665a2d17.html" "36c92500-a580-4b6b-9625-0e18e018390f.html" "42a95851-bebd-4b98-b3a8-2599ff2451cf.html" "842019be-02ac-49e8-8164-d6d58a4947e4.html" "./" "682eda5c-4126-4612-9284-a1e636dc091d.html" "0fefc1e0-d0d6-4c65-adf9-fb6ea659434f.html" "140bde5b-24e8-4d6d-8811-30743ab57b01.html" "a0890082-7202-43e3-958c-e60dc2c81dfe.html" "9973c637-dd8b-4988-8fe3-22c20124ea79.html" "20dd5b57-7a03-4407-b835-3e158125cfa2.html" "ecdd3ada-3c1a-43b5-addb-37e57a7a15b8.html" "8cefcd5d-c808-4bd2-a3f5-eec9c2258988.html" "../" "1d25b1f9-aebd-4aa5-9e7a-2d0f6a0c08fb.html" "fb898ecd-083e-4ec2-8977-1b3101664927.html" "ee023517-ce77-411c-a9a1-fb5dc5c60483.html" "c36564cb-84b0-4401-9723-660c8b03928a.html" "2062f520-088b-4bec-bb72-1bccaef4a196.html" "1f9c585d-1ba6-490d-814f-5470960118ce.html" "c3e6de49-34c5-44e2-877d-a4ee75db3220.html" "9d2f49d6-0fb9-42a0-a150-f5b80c6a9670.html" "56a3266c-5025-4b2b-8e8d-fb9bc03bf756.html" "69d9854a-e210-46c8-9e7d-b90f13a4c1b5.html" "c0aa119e-b256-4337-b7bd-4424231178e1.html" "391c20f9-c408-4eed-95a1-377d47a9f4dd.html" "7f5496c3-0489-4c42-883f-cfd2369e4213.html" "3467aa0f-4aad-4d82-a8de-dc0d20c93c25.html" "ddf5f257-eee5-4c86-8d23-648fbde1f413.html" "ee594688-909b-4eb5-bc35-46a989894933.html")
+
+ ("/home/kristo/.xmonad/" (21698 50158 215738 92000) "xmonad.o" "XMonad-Config.html" "xmonad.errors" "xmonad-x86_64-linux" "xmonad.hs" "./" "../" "xmonad.hi")
+
+ ("/home/kristo/Projects/hn-dt-statistics/" (21695 62695 984705 600000) "data/" "analyze_data.py" "collect_data.py" "./" "../" "main.py")
+
+ ("/home/kristo/Projects/hn-dt-statistics/data/" (21695 62665 477143 405000) "hn_raw" "dt_raw" "./" "../" "html_raw.json")
+
+ ("/home/kristo/Development-Tools/idea-IC-139.659.2/" (21690 8452 569790 809000) "NOTICE.txt" "build.txt" "license/" "Install-Linux-tar.txt" "bin/" "./" "plugins/" "../" "lib/")
+
+ ("/home/kristo/Development-Tools/" (21690 8485 140676 224000) "pycharm-community-4.0.4/" "idea-IC-139.659.2/" "./" "../" "WebStorm-139.773/")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
