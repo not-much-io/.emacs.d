@@ -21,7 +21,6 @@
 ;; This also sets the load path.
 (package-initialize)
 
-;;My added
 (elpy-enable)
 
 ;; Download the ELPA archive description if needed.
@@ -131,18 +130,20 @@
 
 (load "xclip.el")
 (xclip-mode 1)
+
 ;; Langauage-specific
 (load "setup-clojure.el")
 (load "setup-js.el")
-;(require flatland-black)
-;(require 'powerline)
-;(require 'darcula-theme)
-;(require ')
-;(powerline-default-theme)
-;(require 'gotham-theme)
-;(require 'noctilux-theme)
 
+;Theme and some plugins (Done by me)
+(require 'darcula-theme)
+(require 'yesql-ghosts)
 (require 'ac-cider)
+
+;(add-to-list 'load-path "~/.emacs.d")
+(require 'edit-server)
+(edit-server-start)
+
 (add-hook 'cider-mode-hook 'ac-flyspell-workaround)
 (add-hook 'cider-mode-hook 'ac-cider-setup)
 (add-hook 'cider-repl-mode-hook 'ac-cider-setup)
@@ -158,7 +159,7 @@
  '(coffee-tab-width 2)
  '(custom-safe-themes
    (quote
-    ("e35ef4f72931a774769da2b0c863e11d94e60a9ad97fb9734e8b28c7ee40f49b" "569dc84822fc0ac6025f50df56eeee0843bffdeceff2c1f1d3b87d4f7d9fa661" "456ac8176c7c01680384356cbdc568a7683d1bada9c83ae3d7294809ddda4014" "e4bc8563d7651b2fed20402fe37b7ab7cb72869f92a3e705907aaecc706117b5" "1934bf7e1713bf706a9cb36cc6a002741773aa42910ca429df194d007ee05c67" "18e89f93cbaaac214202142d910582354d36639f21f32b04718ca6425dbc82a2" "d96416845141e99d05d45b5f99ecf46458bf97654be7d2e20184c5edcda1580a" "5ea20171762b3f9682fbf507ee4b4018ce7b6cc65415fa99799a125f112b2cdb" "0c311fb22e6197daba9123f43da98f273d2bfaeeaeb653007ad1ee77f0003037" "52588047a0fe3727e3cd8a90e76d7f078c9bd62c0b246324e557dfa5112e0d0c" "30a8a5a9099e000f5d4dbfb2d6706e0a94d56620320ce1071eede5481f77d312" "efa048d8a9f9a8340a2f6382f3b8b8f4549cba38aa226803ff5b6a9b3a2d5f4b" "9e54a6ac0051987b4296e9276eecc5dfb67fdcd620191ee553f40a9b6d943e78" "b73c22111068f51f332cf73ea2eae196b2377c3218054c1bcd436e27e5eeac3e" default)))
+    ("b880872e60d1c7090fcd3d89f287d2a5681e57be9ac90d4682ea442149f5135f" "77c65d672b375c1e07383a9a22c9f9fc1dec34c8774fe8e5b21e76dca06d3b09" "8db4b03b9ae654d4a57804286eb3e332725c84d7cdab38463cb6b97d5762ad26" "1297a022df4228b81bc0436230f211bad168a117282c20ddcba2db8c6a200743" "e35ef4f72931a774769da2b0c863e11d94e60a9ad97fb9734e8b28c7ee40f49b" "569dc84822fc0ac6025f50df56eeee0843bffdeceff2c1f1d3b87d4f7d9fa661" "456ac8176c7c01680384356cbdc568a7683d1bada9c83ae3d7294809ddda4014" "e4bc8563d7651b2fed20402fe37b7ab7cb72869f92a3e705907aaecc706117b5" "1934bf7e1713bf706a9cb36cc6a002741773aa42910ca429df194d007ee05c67" "18e89f93cbaaac214202142d910582354d36639f21f32b04718ca6425dbc82a2" "d96416845141e99d05d45b5f99ecf46458bf97654be7d2e20184c5edcda1580a" "5ea20171762b3f9682fbf507ee4b4018ce7b6cc65415fa99799a125f112b2cdb" "0c311fb22e6197daba9123f43da98f273d2bfaeeaeb653007ad1ee77f0003037" "52588047a0fe3727e3cd8a90e76d7f078c9bd62c0b246324e557dfa5112e0d0c" "30a8a5a9099e000f5d4dbfb2d6706e0a94d56620320ce1071eede5481f77d312" "efa048d8a9f9a8340a2f6382f3b8b8f4549cba38aa226803ff5b6a9b3a2d5f4b" "9e54a6ac0051987b4296e9276eecc5dfb67fdcd620191ee553f40a9b6d943e78" "b73c22111068f51f332cf73ea2eae196b2377c3218054c1bcd436e27e5eeac3e" default)))
  '(show-paren-mode t))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
@@ -171,4 +172,4 @@
 (setq cider-show-error-buffer nil)
 (tool-bar-mode -1)
 (menu-bar-mode -1)
-
+(setq-default indent-tabs-mode nil)
